@@ -4,24 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn Programming</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <style>
-        body{
-            background:rgb(160, 159, 159);
-            }
-        h1{
-            color:rgb(212, 112, 46);
-        }
-        h2{
-            color:greenyellow;
-        }
-        p{
-            color:rgb(12, 12, 12)
-        }
-        </style>
     <header>
         <h1>Welcome to Programming zone</h1>
         <nav>
